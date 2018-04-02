@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hi humans!
+
+Bruna here! I really like this website, it is very amazing!
